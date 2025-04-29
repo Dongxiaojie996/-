@@ -3,13 +3,15 @@
 ### 作者信息：
 
 董袭莹，北京协和医学院， 专业：临床医学
-指导老师：邱贵兴
+
+指导老师：邱贵兴，中国工程院院士，北京协和医院教授、博士生导师 （[百度百科](https://www.pumch.cn/temporary/doctor_details/33528.html)）
+
 论文完成日期：2023-05-30
 
 ### 论文下载：
 [下载链接](https://github.com/Dongxiaojie996/xiyingdong_phd_thesis/blob/main/10023_b2019012012%E8%91%A3%E8%A2%AD%E8%8E%B9.pdf)
 
-![image](sample.png)
+![image](https://github.com/Dongxiaojie996/xiyingdong_phd_thesis/blob/main/sample.png)
 
 ### 论文文摘（中文）
 
